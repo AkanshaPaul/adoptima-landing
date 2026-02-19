@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Bell, Zap, Search, MousePointerClick, TrendingUp } from 'lucide-react';
+import { Bell, Zap, Search, TrendingUp } from 'lucide-react';
 
 const Features: React.FC = () => {
     return (
